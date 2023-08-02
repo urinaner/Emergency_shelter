@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import './screeens/loading.dart';
 
+//시작점 Loading페이지로 이동
 void main() {
   runApp(const MyApp());
 }
