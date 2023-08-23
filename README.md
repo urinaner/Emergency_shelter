@@ -1,16 +1,16 @@
-# flutter_huf_project
+# flutter_shelter_project
 
-A new Flutter project.
 
-## Getting Started
+UI & Stateful을 사용한 자동 업데이트 기능 구현
+GPS를 통한 좌표 가져와서 가장 가까운 근처 대피소 안내 로직 구현
+News page & Map page 제작
+<img src="https://github.com/urinaner/Emergency_shelter/assets/27186972/5fc3013d-a496-4666-8007-9c1cc227c4b2" width="200" height="400"/>
 
-This project is a starting point for a Flutter application.
+## google_map_API
 
-A few resources to get you started if this is your first Flutter project:
+https://data.seoul.go.kr/dataList/OA-15252/F/1/datasetView.do
+대피소데이터 열린데이터광장 데이터 사용
+내 위치 위도 경도로 좌표계산하여 유클리드거리로 가까운 대피소 안내
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+img src="https://github.com/urinaner/Emergency_shelter/assets/27186972/2875c7b9-04bb-4f37-a6ac-7f1a39cc69f2"  width="200" height="400"/>
