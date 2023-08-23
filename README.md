@@ -3,6 +3,7 @@
 
 UI & Stateful을 사용한 자동 업데이트 기능 구현
 GPS를 통한 좌표 가져와서 가장 가까운 근처 대피소 안내 로직 구현
+<br/>
 News page & Map page 제작
 
 
